@@ -16,4 +16,4 @@ Ovaj repozitorij sadrži **.img fajl sa konfiguracijom radio repetitora** izrađ
 
 1. Preuzmite repozitorij:
 ```bash
-git clone <>
+git clone <https://github.com/EldanSehagic/RepetitoriE7.git>
